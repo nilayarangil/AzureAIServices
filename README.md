@@ -83,15 +83,19 @@ The Image Recognition API provides powerful tools to analyze and interpret image
 
 * E-commerce product tagging.
 
-* Content moderation.
+# Speech to Text and visa versa
 
-* Personalized marketing and customer insights.
+## Overview
 
-* Landmark and travel-related applications.
+The Image Recognition API provides powerful tools to analyze and interpret images. It leverages advanced machine learning models to extract detailed information and insights, making it an ideal solution for a wide variety of use cases.
 
-## API Documentation
+## Features
 
-For more details on how to use this API, including authentication, endpoints, and sample requests, please refer to the API Documentation.
+1. **General Image Recognition**
+
+* Implement Text-to-Speech Using the Speech Service
+* Implement Speech-to-Text Using the Speech Service
+
 
 ## License
 
