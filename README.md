@@ -71,6 +71,11 @@ The Image Recognition API provides powerful tools to analyze and interpret image
 * Determine age range, presence of glasses, makeup, smile intensity, and more.
 
 * Example: "Person is approximately 25 years old, wearing glasses, and smiling with 87% confidence."
+11. **Object Detection**
+
+* Train model in azure website by uploading images
+
+* Determine the object from image
 
 ## Use Cases
 
